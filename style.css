@@ -361,16 +361,6 @@ nav .menu{
 	-webkit-filter: drop-shadow(10px 15px 10px rgba(0,0,0,0.5));
 	z-index: 2;
 }
-.jumbotron .palette{
-	position: absolute;
-	right: 50px;
-	height: 170px;
-	display: flex;
-    align-items: center;
-    justify-content: space-evenly;
-    flex-direction: column;
-    z-index: 2;
-}
 .jumbotron .tool{
 	position: absolute;
 	bottom: 100px;
